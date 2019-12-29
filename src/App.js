@@ -34,7 +34,7 @@ export default class App extends Component{
     desc:''
   }
   showTheWord=(v)=>{
-    console.log('被打了')
+    console.log('被打了囖')
     this.setState({
       desc:v
     })
