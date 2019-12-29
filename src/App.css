@@ -52,4 +52,14 @@ li{
   font-size: 14px;
   font-weight: bold;
   color: white;
+  cursor: pointer;
+}
+.Color{
+color: tomato;
+font-size: 18px;
+font-weight: bold;
+/* position: absolute;
+left: 50%;
+top: 50%; */
+/* transform: translate(-50%,-50%); */
 }
